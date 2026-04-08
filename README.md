@@ -129,7 +129,7 @@ src/
 - **Integrated Development Environment:** IntelliJ IDEA (Recommended) or Visual Studio Code and install 'Extension Pack for Java'.
 
 ### Clone & Open: 
-- Clone the repository: ```git clone <your-repo-link>```
+- Clone the repository: ```git clone https://github.com/ColeKenneth/BankApp.git```
 - Open IntelliJ IDEA. 
 - Select Open and navigate to the root folder of this project.
 
